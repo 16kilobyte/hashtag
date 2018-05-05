@@ -3,7 +3,7 @@ Extracting Hashtags from a string in PHP
 - This is a helper function with unicode support to extract the hashtags that exists in a string.
 
 ##To use this function
-#### 1. Require the helper file in your project
+#### 1. Require the hashtag file in your project
  ```php
 <?php
 require_once('hashtag.php'); 
