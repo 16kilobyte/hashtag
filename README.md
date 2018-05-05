@@ -6,7 +6,7 @@ Extracting Hashtags from a string in PHP
 #### 1. Require the helper file in your project
  ```php
 <?php
-require_once('helper.php'); 
+require_once('hashtag.php'); 
 ```
 
 #### 2. Pass a string as an argument to the function:
